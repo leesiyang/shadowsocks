@@ -1,3 +1,3 @@
 # shadowsocks
-
-git hub test
+开源官方：
+https://github.com/shadowsocks
